@@ -1,0 +1,1 @@
+c:\users\a\documents\visual studio 2015\Projects\InheritanceAndAbstraction-Homework\01.HumanStudentAndWorker\bin\Debug\01.HumanStudentAndWorker.exe.config

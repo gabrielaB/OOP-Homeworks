@@ -1,0 +1,12 @@
+D:\SoftUni\OOP-November\Labs\FootballLeague\FootballLeague\bin\Debug\FootballLeague.exe.config
+D:\SoftUni\OOP-November\Labs\FootballLeague\FootballLeague\bin\Debug\FootballLeague.exe
+D:\SoftUni\OOP-November\Labs\FootballLeague\FootballLeague\bin\Debug\FootballLeague.pdb
+D:\SoftUni\OOP-November\Labs\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP-November\Labs\FootballLeague\FootballLeague\obj\Debug\FootballLeague.exe
+D:\SoftUni\OOP-November\Labs\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\OOP\FootballLeague\FootballLeague\bin\Debug\FootballLeague.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\OOP\FootballLeague\FootballLeague\obj\Debug\FootballLeague.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\OOP\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\OOP\FootballLeague\FootballLeague\bin\Debug\FootballLeague.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\OOP\FootballLeague\FootballLeague\bin\Debug\FootballLeague.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\OOP\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache

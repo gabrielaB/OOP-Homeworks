@@ -1,0 +1,12 @@
+Path: 
+X=3 Y=5 Z=6
+X=4 Y=6 Z=7
+X=7 Y=8 Z=9
+
+Path: 
+X=7 Y=8 Z=9
+
+Path: 
+X=3 Y=5 Z=6
+X=4 Y=6 Z=7
+

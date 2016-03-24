@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\HomeorkDefiningClasses\PcCatalog\bin\Debug\PcCatalog.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\HomeorkDefiningClasses\PcCatalog\bin\Debug\PcCatalog.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\HomeorkDefiningClasses\PcCatalog\bin\Debug\PcCatalog.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\HomeorkDefiningClasses\PcCatalog\obj\Debug\PcCatalog.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\HomeorkDefiningClasses\PcCatalog\obj\Debug\PcCatalog.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\HomeorkDefiningClasses\PcCatalog\obj\Debug\PcCatalog.pdb

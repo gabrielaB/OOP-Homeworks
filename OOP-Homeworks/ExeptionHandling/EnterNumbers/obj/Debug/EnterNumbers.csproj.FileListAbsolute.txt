@@ -1,0 +1,5 @@
+c:\users\a\documents\visual studio 2015\Projects\ExeptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+c:\users\a\documents\visual studio 2015\Projects\ExeptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+c:\users\a\documents\visual studio 2015\Projects\ExeptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+c:\users\a\documents\visual studio 2015\Projects\ExeptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+c:\users\a\documents\visual studio 2015\Projects\ExeptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb

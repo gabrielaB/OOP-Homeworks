@@ -1,0 +1,8 @@
+c:\users\a\documents\visual studio 2015\Projects\StaticMembersAndNamespaces\Path\bin\Debug\Path.exe.config
+c:\users\a\documents\visual studio 2015\Projects\StaticMembersAndNamespaces\Path\bin\Debug\Path.exe
+c:\users\a\documents\visual studio 2015\Projects\StaticMembersAndNamespaces\Path\bin\Debug\Path.pdb
+c:\users\a\documents\visual studio 2015\Projects\StaticMembersAndNamespaces\Path\bin\Debug\Point3D.exe
+c:\users\a\documents\visual studio 2015\Projects\StaticMembersAndNamespaces\Path\bin\Debug\Point3D.pdb
+c:\users\a\documents\visual studio 2015\Projects\StaticMembersAndNamespaces\Path\obj\Debug\Path.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\StaticMembersAndNamespaces\Path\obj\Debug\Path.exe
+c:\users\a\documents\visual studio 2015\Projects\StaticMembersAndNamespaces\Path\obj\Debug\Path.pdb
